@@ -19,7 +19,7 @@ Our analysis indicates a coordinated effort by threat actors utilizing newly reg
 
 ## Indicators of Compromise (IOCs)
 
-The `iocs/` directory contains various types of indicators that can be used for threat detection and prevention. All domains and IP addresses are "defanged" (e.g., `example[.]com`, `192[.]168[.]1[.]1`) to prevent accidental clicks.
+The `iocs/` directory contains various types of indicators that can be used for threat detection and prevention.
 
 ### How to Use These IOCs
 
