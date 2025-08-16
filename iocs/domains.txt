@@ -5,6 +5,10 @@ ais.vipht.cc
 ais.vipht.top
 aisth.cc
 aisth.vip
+athvip.top
+athvip.vip
+avips.vip
+axvip.vip
 bahrain-bhy.vip
 celcom-my.vip
 celcom-myp.top
@@ -31,6 +35,7 @@ globe-philippinek.vip
 globe-philippines.vip
 globe-philippineu.vip
 gob-serpost.vip
+indposcs.work
 jpjmy.vip
 jtexpress-l.top
 jtexpress-l.vip
@@ -70,6 +75,8 @@ ph-globejf.vip
 ph-globeph.vip
 ph-globephl.vip
 ph-globepp.vip
+points-sms.work
+pointsvip-id.cc
 posmy.vip
 post-att.vip
 post-bn.vip
@@ -83,9 +90,12 @@ singtel-sg.vip
 singtelsg-sy.vip
 smart-phl.vip
 telkomsel-en.vip
+vipbk.vip
 vipht.shop
 vipht.vip
 vipmy.click
 vipmy.vip
+vipth.click
 vipth.top
 vipth.vip
+www.vipht.shop
